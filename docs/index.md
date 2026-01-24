@@ -8,7 +8,7 @@ tags:
 !!! quote "Cite"
 
 	[简明LaTeX教程_哔哩哔哩_bilibili](https://www.bilibili.com/video/BV1ihYKeQEKH?vd_source=bf57a3936cdb31aed71aab25cbdfbd70&spm_id_from=333.788.videopod.episodes)
-
+	
 	[Perplexity|discover](https://www.perplexity.ai/discover)
 
 ## 1. LaTex 在线环境
@@ -1125,7 +1125,7 @@ fc-list -f "%{family}\n" :lang=zh      # 查看中文字体
 !!! note "查看文档"
 
 	在线查看：https://texdoc.org/serve/tabularray/0
-
+	
 	本地查看：打开命令行，输入 texdoc tabularray
 
 ```tex
@@ -2486,7 +2486,7 @@ S = T
 
 ## 49. 章节标题与目录
 
-![](assets/简明LaTex教程-19.png){ width="575" }
+![](assets/简明LaTex教程-19.png){ width="525" }
 
 ```tex
 \documentclass{ctexbook}
