@@ -1,0 +1,24 @@
+/* :root {
+  --md-text-font: "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+  --md-code-font: "Microsoft YaHei Mono", Consolas, monospace;
+} */
+
+/* 只缩小 logo 按钮本身的左右 padding */
+.md-header__button.md-logo {
+  padding: 0 6px !important;
+}
+
+/* 只缩小标题左边的间距 */
+.md-header__title {
+  margin-left: 4px !important;
+}
+
+/* 兼容某些版本：标题内部容器也会带 padding */
+.md-header__title .md-header__ellipsis {
+  padding-left: 0 !important;
+  margin-left: 0 !important;
+}
+
+
+
+
